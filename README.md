@@ -11,7 +11,7 @@ The Coffee Quality Institute (CQI) dataset provides comprehensive information on
 
 ### Data Sources
 - **Original Dataset:** `df_arabica_clean.csv`
-- **Power BI Report:** `CQI_Analysis_Report.pbix`
+- **Power BI Report:** `CQI_Analysis_report.pbix`
 
 ### Methodologies and Tools
 - Data exploration and visualization using Power BI
