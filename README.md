@@ -1,4 +1,4 @@
-- DOWNLOAD POWERBI FILE : ```CQI_reports.pbix``` for full details of the project work
+- DOWNLOAD POWERBI FILE : ```CQI_Analysis_report.pbix``` for full details of the project work
 - ORIGINAL DATASET : ```df_arabica_clean.csv```
 
 # **Project Title: Exploring Coffee Quality Data with Power BI**
